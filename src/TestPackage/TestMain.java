@@ -9,5 +9,6 @@ public class TestMain {
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         System.out.println(simpleDateFormat.format(System.currentTimeMillis()));
         System.out.println("aaa");
+        System.out.println("Test");
     }
 }
